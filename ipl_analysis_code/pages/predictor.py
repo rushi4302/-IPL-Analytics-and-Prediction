@@ -3,9 +3,6 @@ import pickle
 import pandas as pd
 import plotly.graph_objects as go
 
-# Set Page Config
-st.set_page_config(page_title="IPL Predictor | Analytics Pro", layout="wide")
-
 # Custom CSS for Premium Look
 st.markdown("""
 <style>
